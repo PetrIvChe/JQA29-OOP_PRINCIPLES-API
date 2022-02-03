@@ -11,7 +11,7 @@ public class Main {
         //birthday
         post.birthday = new FormDate();
         post.birthday.day = 13;
-        post.birthday.month = 12;
+        post.birthday.month = 6;
         post.birthday.year = 1999;
     }
 }
